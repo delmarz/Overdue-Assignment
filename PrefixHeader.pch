@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  OverdueAssignment
+//
+//  Created by delmarz on 1/24/15.
+//  Copyright (c) 2015 delmarz. All rights reserved.
+//
+
+#ifndef OverdueAssignment_PrefixHeader_pch
+#define OverdueAssignment_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define TASK_TITLE @"task title"
+#define TASK_DESCRIPTION @"task description"
+#define TASK_DATE @"date"
+#define TASK_COMPLETED @"completion"
+#define TASK_OBJECT_KEY @"object key"
+
+
+#endif
